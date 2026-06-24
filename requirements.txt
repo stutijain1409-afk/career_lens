@@ -22,3 +22,4 @@ flask-cors
 gdown
 fire
 gunicorn
+plotly
