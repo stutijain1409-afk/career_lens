@@ -1,8 +1,17 @@
 streamlit
 streamlit_option_menu
 firebase_admin
-try:
-    from dotenv import load_dotenv
-    load_dotenv()
-except ImportError:
-    pass
+numpy
+Pillow
+opencv-python
+scikit-learn scipy h5py
+tensorflow==2.15.0
+tf-keras keras
+deepface
+retina-face mtcnn
+streamlit
+mysql-connector-python
+bcrypt
+anthropic
+flask flask-cors gdown fire gunicorn
+
