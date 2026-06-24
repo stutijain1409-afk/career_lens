@@ -1,19 +1,24 @@
 streamlit
-streamlit_option_menu
-firebase_admin
-streamlit
+streamlit-option-menu
+firebase-admin
 python-dotenv
 numpy
 Pillow
-opencv-python
-scikit-learn scipy h5py
+opencv-python-headless
+scikit-learn
+scipy
+h5py
 tensorflow==2.15.0
-tf-keras keras
+tf-keras
+keras
 deepface
-retina-face mtcnn
-streamlit
+retina-face
+mtcnn
 mysql-connector-python
 bcrypt
 anthropic
-flask flask-cors gdown fire gunicorn
-
+flask
+flask-cors
+gdown
+fire
+gunicorn
