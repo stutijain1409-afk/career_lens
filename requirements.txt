@@ -1,6 +1,8 @@
 streamlit
 streamlit_option_menu
 firebase_admin
+streamlit
+python-dotenv
 numpy
 Pillow
 opencv-python
